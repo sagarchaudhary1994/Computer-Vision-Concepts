@@ -3,7 +3,7 @@
 Creating conda env
 
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.6.3 -y
 ```
 
 Activate conda env
